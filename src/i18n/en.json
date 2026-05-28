@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "login": "Login",
+    "register": "Sign Up",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "hero": {
+    "badge": "FASTEST SMM PANEL",
+    "title1": "Real Growth",
+    "title2": "for Social Media",
+    "desc": "A professional social media marketing platform with instant delivery, modern UI, and competitive pricing."
+  },
+
+  "buttons": {
+    "start": "Start Now",
+    "services": "Browse Services"
+  },
+
+  "hero_features": {
+    "fast": "Instant Delivery",
+    "support": "24/7 Support",
+    "price": "Competitive Prices"
+  },
+
+  "sections": {
+    "services_title": "OUR SERVICES",
+    "services_sub": "Top Services",
+    "services_desc": "Professional services designed to grow your accounts faster and smarter.",
+
+    "features_title": "Powerful Features",
+    "features_sub": "Discover Features",
+    "features_desc": "A modern dashboard that helps you manage orders easily and efficiently.",
+
+    "testimonials_title": "Customer Reviews",
+    "testimonials_desc": "Real experience with fast results.",
+
+    "payment_title": "Global Payment Methods",
+    "payment_desc": "Pay from anywhere in the way that suits you.",
+
+    "faq_title": "Frequently Asked Questions",
+    "faq_desc": "Everything you need to know before starting."
+  },
+
+  "faq": {
+    "q1": "Do orders start instantly?",
+    "a1": "Yes, most services start within seconds.",
+
+    "q2": "Is the platform safe?",
+    "a2": "All operations and data are fully protected.",
+
+    "q3": "Is there an API?",
+    "a3": "Yes, we provide a professional API for developers.",
+
+    "q4": "Is support available?",
+    "a4": "Support is available 24/7 all week."
+  },
+
+  "services": {
+    "followers": {
+      "title": "Followers Growth",
+      "desc": "Real followers with ultra-fast delivery."
+    },
+    "likes": {
+      "title": "Likes Boost",
+      "desc": "Increase engagement professionally."
+    },
+    "views": {
+      "title": "Views",
+      "desc": "Boost video and post views."
+    },
+    "automation": {
+      "title": "Automation Services",
+      "desc": "Continuous execution without manual work."
+    }
+  },
+
+  "payment": {
+    "visa": "Visa",
+    "mastercard": "MasterCard",
+    "paypal": "PayPal",
+    "crypto": "Crypto"
+  },
+  "stats": {
+    "orders": "Orders Completed",
+    "price": "Starting Price",
+    "platforms": "Platforms Supported",
+    "clients": "Happy Clients"
+  },
+  "features": {
+    "title": "Why Choose Us?",
+    "quality": {
+      "title": "Guaranteed Quality",
+      "desc": "100% real & safe services with zero risk to your accounts"
+    },
+    "speed": {
+      "title": "Instant Delivery",
+      "desc": "Start in seconds after order confirmation"
+    },
+    "price": {
+      "title": "Best Prices",
+      "desc": "Cheapest market rates with quality guarantee"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "desc": "Support team always available to help you"
+    }
+  },
+  "platforms": "Supported Platforms",
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "t1": {
+      "name": "Ahmed M.",
+      "role": "Marketing Manager",
+      "text": "Excellent service and fast delivery. Highly recommend to all marketers!"
+    },
+    "t2": {
+      "name": "Sara A.",
+      "role": "Digital Influencer",
+      "text": "Helped me grow my account massively. The quality is unbelievable!"
+    },
+    "t3": {
+      "name": "Khaled O.",
+      "role": "Store Owner",
+      "text": "Best SMM site I've tried. Reasonable prices and great support."
+    }
+  },
+  "how": {
+    "title": "How It Works?",
+    "s1": { "title": "Create Account", "desc": "Sign up for free in seconds" },
+    "s2": { "title": "Choose Service", "desc": "Browse hundreds of services" },
+    "s3": { "title": "Place Order", "desc": "Enter link, quantity and submit" },
+    "s4": {
+      "title": "Get Results",
+      "desc": "Watch your engagement grow instantly"
+    }
+  },
+  "cta": {
+    "title": "Ready to Start?",
+    "subtitle": "Join thousands of satisfied clients and start growing your digital presence",
+    "btn": "Create Free Account"
+  },
+  "auth": {
+    "login_title": "Login",
+    "register_title": "Create New Account",
+    "email": "Email Address",
+    "password": "Password",
+    "name": "Full Name",
+    "login_btn": "Login",
+    "register_btn": "Create Account",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "forgot": "Forgot password?"
+  },
+  "dashboard": {
+    "overview": "Overview",
+    "new_order": "New Order",
+    "my_orders": "My Orders",
+    "services": "Services",
+    "settings": "Settings",
+    "balance": "Balance",
+    "total_orders": "Total Orders",
+    "in_progress": "In Progress",
+    "completed": "Completed"
+  }
+}
